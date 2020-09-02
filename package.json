@@ -2,13 +2,21 @@
   "name": "laundry-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.20.0",
+    "material-ui": "^0.20.2",
+    "mobx": "^5.15.6",
+    "mobx-react": "^6.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-tap-event-plugin": "^3.0.3",
+    "tailwindcss": "^1.7.4"
   },
   "scripts": {
     "start": "react-scripts start",
